@@ -18,4 +18,4 @@ Create config.json:
 
 Install imagemagick.
 
-Run node bot.js.
+Run `node bot.js`
